@@ -24,20 +24,13 @@ const About = () => (
         className="space-y-4 text-muted-foreground leading-relaxed"
       >
         <p>
-          I'm a Procurement & Supply Chain Planning Professional with 5+ years of experience across Direct & Indirect Procurement,
-          demand forecasting, supply planning, and inventory management in manufacturing,
-          retail and multinational environments. Based in Hamburg, Germany.
+          Procurement & Supply Chain Planning professional with 5+ years of experience across direct and indirect procurement, demand forecasting, supply planning, and inventory management within manufacturing, retail, and multinational environments. Based in Hamburg, Germany.
         </p>
         <p>
-          My focus is on transforming supply chain data into actionable insights —
-          whether it's improving spend, forecast accuracy, optimizing inventory levels,
-          or driving S&OP alignment. I've worked hands-on with SAP MM, Oracle Cloud,
-          Power BI, Tableau, and SQL.
+          I specialize in transforming supply chain data into actionable insights—driving cost optimization, improving forecast accuracy, optimizing inventory levels, and enhancing S&OP alignment.I bring hands-on experience with Power BI, Tableau, and SQL, and have served as a key user for SAP MM and Oracle Cloud, including training and onboarding new users.
         </p>
         <p>
-          I hold an MBA from HTW Berlin where my thesis explored the business impact
-          of machine learning in demand forecasting. I'm CSCMP certified in Demand Planning,
-          Procurement, and Inventory Management.
+          I hold a Bachelor's degree in Mechanical Engineering and an MBA from HTW Berlin, along with CSCMP certifications in Procurement, Demand Planning, and Inventory Management.
         </p>
       </motion.div>
 
