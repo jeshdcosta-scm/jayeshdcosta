@@ -8,20 +8,16 @@ const experiences = [
     company: "Amplifon SpA — Hamburg, Germany",
     duration: "Apr 2025 – Mar 2026",
     bullets: [
-      "Managed SKU-level demand forecasting and country-level supply planning, improving forecast accuracy from 72% to 83%",
-      "Drove inventory relocation and obsolescence management, reducing total inventory by 18% while improving service levels from 74% to 79%",
-      "Owned end-to-end replenishment planning for warehouse-managed SKUs, ensuring material availability and optimizing logistics costs",
-      "Led monthly S&OP review meetings, aligning Sales, Marketing, and Supply Planning for product lifecycle and new launches",
-    ],
+      "Managed SKU-level demand forecasting and country-level supply planning, improving forecast accuracy and service level",
+      ],
   },
   {
-    title: "Procurement Intern",
+    title: "Procurement",
     company: "Amplifon SpA — Hamburg, Germany",
     duration: "Jun 2024 – Mar 2025",
     bullets: [
       "Drove change management for a new Procure-to-Pay (P2P) system, improving P2P adoption by 12%",
-      "Performed spend analysis and supported procurement operations for €2M monthly indirect spend",
-    ],
+      ],
   },
   {
     title: "Procurement Specialist",
@@ -29,8 +25,7 @@ const experiences = [
     duration: "Aug 2022 – Nov 2023",
     bullets: [
       "Owned end-to-end indirect procurement category (INR 12 Cr spend), achieving 9% cost savings through strategic sourcing",
-      "Supported implementation of Ivalua e-procurement system with Accenture, enabling 80% e-Procurement adoption",
-    ],
+     ],
   },
   {
     title: "Global Procurement Specialist",
@@ -38,18 +33,14 @@ const experiences = [
     duration: "Feb 2021 – Aug 2022",
     bullets: [
       "Acted as key interface between global and local procurement teams, aligning category strategies across regions",
-      "Enhanced procurement digitalization by automating SAP reports, reducing manual workload by 20–30%",
-      "Optimized supplier performance monitoring and supply risk visibility through structured governance tracking",
-    ],
+       ],
   },
   {
-    title: "Supply Chain Specialist",
+    title: "Procurement & Supply Chain",
     company: "Rochem Separation Systems — Mumbai, India",
     duration: "Dec 2019 – Feb 2021",
     bullets: [
-      "Monitored material requirements against project demand forecasts, identifying supply risks early",
-      "Improved supplier OTIF from 85% to 93% through proactive delivery follow-ups",
-      "Managed SAP material movements, stock transfers, and master data maintenance",
+      "Oversaw direct procurement, material planning, supplier performance, and project demand to ensure uninterrupted production.",
     ],
   },
 ];
