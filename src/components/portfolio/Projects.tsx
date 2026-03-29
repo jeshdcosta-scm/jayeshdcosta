@@ -10,8 +10,8 @@ const projects = [
     problem: "Tradional forecasting is highly manual and not scalable, while fully automated ML models lacked business context. The challenge is to balance automation with human expertise to improve accuracy and efficiency.",
     tools: ["Excel", "Python", "Pandas", "Time Series"],
     outcome: "Reduced planner workload from 1000+ SKUs to around 100 key items. Improved forecasting accuracy by approximately 4%.",
-    github: "#", // ✏️ EDIT: Add your GitHub link
-    caseStudy: "#", // ✏️ EDIT: Add case study link or remove
+    github: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/Demand%20forecasting.pdf", 
+    caseStudy: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/Demand%20forecasting.pdf",
   },
   {
     title: "Spend Analysis Dashboard",
