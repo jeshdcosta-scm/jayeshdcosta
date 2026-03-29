@@ -32,12 +32,7 @@ const Navbar = () => {
               {link.label}
             </a>
           ))}
-          <Button size="sm" variant="outline" asChild>
-            <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
-              <FileDown className="w-4 h-4 mr-1.5" />
-              Resume
-            </a>
-          </Button>
+    
         </div>
 
         {/* Mobile toggle */}
@@ -63,12 +58,6 @@ const Navbar = () => {
               {link.label}
             </a>
           ))}
-          <Button size="sm" variant="outline" className="mt-2 w-full" asChild>
-            <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
-              <FileDown className="w-4 h-4 mr-1.5" />
-              Resume
-            </a>
-          </Button>
         </div>
       )}
     </nav>
