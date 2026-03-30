@@ -23,9 +23,9 @@ const projects = [
   },
   {
     title: "Inventory Dashboard",
-    problem: "Upload Pending",
+    problem: "This dashboard was built on actual business use cases in my previous organisation. All sensitive data has been blurred due to data privacy policies.",
     tools: ["Power BI", "SQL", "DAX"],
-    outcome: "Please access the below link for the details",
+    outcome: "Identified slow-moving and obsolete inventory. Highlighted stock concentration across key brands",
     github: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/Inventory%20DB.pdf",
     caseStudy: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/Inventory%20DB.pdf",
   },
