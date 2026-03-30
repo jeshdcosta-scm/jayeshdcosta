@@ -32,10 +32,10 @@ const projects = [
   {
     title: "4FLOW Sustainability challenge",
     problem: "In the Challenge, we designed a consulting-style sustainable end-to-end supply chain transformation using KPI-driven recommendations.",
-    tools: ["Excel", "Pivot Tables", "Data Modeling"],
+    tools: ["ESG", "AUDIT", "Sustainability"],
     outcome: "Our structured and data-driven approach helped us reach the top 10 teams, and we were recognized for combining sustainability with strong financial and operational impact",
-    PPT: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/4Flow%20challenge_Final%20-%20Team%20Zenith.pdf",
-    Calculations: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/calculations.xlsx",
+    github: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/4Flow%20challenge_Final%20-%20Team%20Zenith.pdf",
+    caseStudy: "https://github.com/jayeshdcosta/jayeshdcosta/blob/main/src/assets/calculations.xlsx",
   },
   {
     title: "Sales Funnel",
